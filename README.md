@@ -114,6 +114,7 @@ I’m **Majid Hussain**, an `Aspiring Machine Learning`, `Deep Learning & GenAI 
 ![](https://github-profile-trophy.vercel.app/?username=majidhussain-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 --- 
+
 <table>
   <tr>
     <!-- Left Side -->
