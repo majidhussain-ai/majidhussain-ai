@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 About Me
