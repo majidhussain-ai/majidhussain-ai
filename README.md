@@ -66,7 +66,7 @@ A custom **LangGraph** state-machine integrating **GPT-4o** for complex reasonin
   <a href="https://www.kaggle.com/majidhussainmleng" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:majidhussain.ai@gmail.com">
+  <a href="mailto:majidhussain.ai5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
