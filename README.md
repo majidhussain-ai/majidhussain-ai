@@ -44,7 +44,9 @@ I’m **Majid Hussain**, an **AI Engineer** specializing in Generative AI, LLM a
 
 --- 
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects: <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=majidhussain-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ### 🧠 [DevSync AI: Autonomous Intelligence Pipeline](#)
 An autonomous, three-agent pipeline built with **FastAPI** and **Streamlit** to collect, evaluate, and summarize technical resources using **Claude** and **Gemini**.
