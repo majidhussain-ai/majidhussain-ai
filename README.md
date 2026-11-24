@@ -72,12 +72,6 @@ Building production-oriented AI applications with LLMs, RAG, Agentic workflows, 
 ### 🧠 [DevSync AI: Autonomous Intelligence Pipeline](https://github.com/majidhussain-ai/DevSync-AI)
 An autonomous, three-agent pipeline built with **FastAPI** and **Streamlit** to collect, evaluate, and summarize technical resources using **Claude** and **Gemini**.
 
-### 🌍 [AI-Based Trip Planner](https://github.com/majidhussain-ai/AI-Based-Trip-Planner)
-A state-driven ReAct workflow using **LangGraph**. Features a dynamic fan-out architecture for autonomous planning and live web research via the **Tavily API**.
-
-### ✍️ [Multi-Agent Content Orchestrator](https://github.com/majidhussain-ai/Multi-Agent-Content-Orchestrator)
-A custom **LangGraph** state-machine integrating **GPT-4o** for complex reasoning and concurrent task execution across specialized worker nodes.
-
 ---
 
 ## 📬 Let’s Connect  
